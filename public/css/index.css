@@ -1,0 +1,8 @@
+body{
+    background: url("../images/wbl.png") 100% 100% no-repeat;
+    /* background-size: 70vw 70vh; */
+}
+#root{
+    height: 100%;
+}
+

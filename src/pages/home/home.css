@@ -1,0 +1,8 @@
+.home{
+    height: 100%;
+    text-align: center;
+    font-size: 48px;
+    color:#333;
+    background: url("https://gw.alipayobjects.com/zos/basement_prod/80e7d303-aa05-4c2d-94e9-2255ab5cea6c.svg") no-repeat 50% 50%;
+    /* background-image: url("https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*P0S-QIRUbsUAAAAAAAAAAABkARQnAQ"); */
+}
